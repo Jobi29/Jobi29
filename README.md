@@ -17,4 +17,4 @@
 ## Latest steps on my learning journey
 - HTML/CSS at Epitech Nantes & on [The Odin Project](https://theodinproject.com/) - **in progress**
 - Javascript on [The Odin Project](https://theodinproject.com/courses/nodejs) - **in progress**
-- Pentesting and security stuff on [TryHackMe](http://tryhackme.com)and [HackTheBox](http://hackthebox.eu)
+- Pentesting and security stuff on [TryHackMe](http://tryhackme.com) and [HackTheBox](http://hackthebox.eu)
