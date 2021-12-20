@@ -5,8 +5,6 @@
 
 - ✏️ Currently studying Javascript on [The Odin Project](https://theodinproject.com/)
 
-- 🖥️ My latest project is my website which is not yet available
-
 - 👨‍💻 My projects are available right here on Github
 
 - 💬 Ask me about **anything!**
