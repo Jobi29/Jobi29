@@ -3,7 +3,7 @@
 
 - :blue_book: 3rd year student in Msc-Pro at [Epitech](https://www.epitech.eu/fr/formations/msc-pro/) Nantes - France
 
-- ✏️ Currently studying Javascript on [The Odin Project](https://theodinproject.com/)
+- ✏️ Currently learning Javascript on [The Odin Project](https://theodinproject.com/)
 
 - 👨‍💻 My projects are available right here on Github
 
